@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @LukaPodbregar
+- 👀 I’m interested in Machine learning and Python
