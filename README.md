@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @LukaPodbregar
-- 👀 I’m interested in Machine learning and Python
+- 👀 I’m interested in Embedded programming, machine learning and PCB design.
